@@ -1,1 +1,6 @@
 node_modules
+package-lock.json
+package.json
+.gitignore
+Socket.io learn/package-lock.json
+Socket.io learn/package.json
